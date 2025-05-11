@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h3 {
+    text-align: center;
+    background-color: #9c3a5b;
+    color: white;
+    padding: 10px 0px;
+    font-size: 18px;
+}
