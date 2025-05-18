@@ -13,7 +13,7 @@
 }
 
 .logo {
-    width: 30%;
+    width: 150px;
 }
 
 .header {
@@ -22,5 +22,8 @@
 
 .hero-img {
     width: 100%;
-    height: 450px;
+}
+
+.icons img {
+    width: 20px;
 }
